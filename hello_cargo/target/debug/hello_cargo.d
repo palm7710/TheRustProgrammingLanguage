@@ -1,1 +1,0 @@
-/Users/uematsuayaka/Documents/example_Rust/TheRustProgrammingLanguage/hello_cargo/target/debug/hello_cargo: /Users/uematsuayaka/Documents/example_Rust/TheRustProgrammingLanguage/hello_cargo/src/main.rs
