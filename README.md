@@ -1,4 +1,4 @@
-# TheRustProgrammingLanguage
+# Th Rust Programming Language
 
 The Rust Programming Language へようこそ。Rust に関する**入門書**です。
 
