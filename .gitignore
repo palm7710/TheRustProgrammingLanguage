@@ -1,1 +1,7 @@
-target/
+# === Rust build output ===
+/target/
+
+# === IDE / Editor files ===
+# VSCode
+.vscode/
+*.code-workspace
